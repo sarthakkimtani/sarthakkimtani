@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/sarthakkimtani2" target="blank"><img src="https://img.shields.io/twitter/follow/sarthakkimtani2?logo=twitter&style=for-the-badge" alt="sarthakkimtani2" /></a> </p>
 
-- 🔭 I’m currently working on **Cryptocurrency Tracker**
+- 🔭 I’m currently working on **building iOS & Android Apps!**
 
-- 🌱 I’m currently learning **Flutter & Dart**
+- 🌱 I’m currently learning **Flutter & Dart!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sarthakkimtani?tab=repositories](https://github.com/sarthakkimtani?tab=repositories)
 
