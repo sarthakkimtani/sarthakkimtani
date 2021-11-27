@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarthak Kimtani</h1>
 <h3 align="center">A self-taught programmer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/sarthakkimtani2" target="blank"><img src="https://img.shields.io/twitter/follow/sarthakkimtani2?logo=twitter&style=for-the-badge" alt="sarthakkimtani2" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sarthakkimtani" target="blank"><img src="https://img.shields.io/twitter/follow/sarthakkimtani2?logo=twitter&style=for-the-badge" alt="sarthakkimtani2" /></a> </p>
 
 - 🔭 I’m currently working on **building iOS & Android Apps!**
 
